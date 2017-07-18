@@ -9,11 +9,7 @@ We have assumed generic enterprise/firm for the test and development purposes. O
 
 
 
-The bot can be used to do the following operations
-log an issue
-get ticket details
-Update ticket details
-Close ticket
+The bot can be used to log an issue,get ticket details,Update ticket details and Close ticket
 
 Prerequisites:
 Valid email id,
