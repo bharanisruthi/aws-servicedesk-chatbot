@@ -6,7 +6,7 @@ greeting= "Greeting"
 hangUp = "HangUp"
 closeTicket = "CloseTicket"
 updateTicketDetails = "UpdateTicketDetails"
-greetingSlots = {"greet":"Grret","greetBack":"GreetBack"}
+greetingSlots = {"greet":"Grret","greetBack":"GreetBack","emailId":"Email_ID"}
 getTicketDetailsSlots = {"emailId":"Email_ID","ticketId" :"Ticket_Id"}
 updateTicketDetailsSlots = {"emailId":"Email_ID","ticketId" :"Ticket_Id","updateIssueDescription":"Updated_Description"}
 closeTicketSlots = {"emailId":"Email_ID","ticketId" :"Ticket_Id"}
@@ -35,6 +35,7 @@ def getSlots(intentName):
         return {
                     "Greet": None,
                     "Greetback":None,
+                    "Email_ID": None,
                 }
     elif intentName == closeTicket:
         return {
