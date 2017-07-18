@@ -27,4 +27,6 @@ AWS Lambda
 AWS Lex
 AWS SES(Simple Email Service)
 AWS DynamoDB
+Slack API
+Boto3 API
 
