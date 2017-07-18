@@ -16,17 +16,17 @@ Update ticket details
 Close ticket
 
 Prerequisites:
-Valid email id
-Add the email id to slackbot
-Add the email id as a valid user in dynamo db table, CustomerDetails
+Valid email id,
+Add the email id to slackbot,
+Add the email id as a valid user in dynamo db table CustomerDetails and email id must be verified in AWS SES
 
 
 Technology Stack:
 
-AWS Lambda
-AWS Lex
-AWS SES(Simple Email Service)
-AWS DynamoDB
-Slack API
+AWS Lambda,
+AWS Lex,
+AWS SES(Simple Email Service),
+AWS DynamoDB,
+Slack API,
 Boto3 API
 
