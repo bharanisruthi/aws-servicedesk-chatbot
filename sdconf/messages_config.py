@@ -1,0 +1,26 @@
+#Messages for customer
+
+noTicketInput = "Sorry, we could not find ticket number. The valid ticket format is SD#####."
+askEmailId = "Could you provide your email id?"
+askEmailIdCorrectFormat = "Could you provide your email id in right format xyz@domain.xqy?"
+followUp = "Is there anything else I could help with?"
+noTicketFound = "Sorry, Could not find the ticket details."
+logTikcet = "Do you want to log a new ticket?"
+systemIssueMeesage = "Sorry, there is an issue with our systems. Please contact us later."
+applicationIssueMessage = "Something wrong at our end. Please contact us later"
+ticketLogged = "Your issue has been logged"
+customerNotFound = "Sorry, we could not find you in the system."
+askIssueDescription = "Could you please provide issue description?"
+askForUpdatedDescription = "What would you like to add to the existing ticket description?"
+updatedConfirmMessage = "Thank you, I have updated the ticket details."
+closeConfirmMessage = "Thank you, I have closed the ticket."
+goodByeMessage = "Thanks for using SDBOT.Good Day!!"
+askTicketID = "Could you please provide Ticket ID?"
+askForPurpose = "How can I help you today?"
+exampleHelperMessage = "I can log a ticket, check ticket details and update/close ticket for you. For example, You could say log a ticket or follow up on ticket."
+welcomeMessage = "I am Sally, your service desk chat bot. I would log your issues, tell status of your issues and update or close your issues. Just let me know what you want to do. :-)"
+emailMessage = "Thank you for using the Service Bot "
+#Conditional Mesages
+
+inValidFormat = "Not Valid format"
+noEmailID = "EmailId None"
